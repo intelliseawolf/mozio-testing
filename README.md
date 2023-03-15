@@ -4,10 +4,6 @@
 
 This application allow people to perform searches to know the distance of a route that may consist of 2 or more cities, to enable them to plan their travel.
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ## Tech
 
 - TypeScript
@@ -17,6 +13,10 @@ In the project directory, you can run:
 - Cypress
 - Axios
 - MirageJS
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ### `npm start`
 
